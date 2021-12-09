@@ -43,8 +43,6 @@ public class XRay : MonoBehaviour
     {
      yield return new WaitForSeconds(5f);
      Time.timeScale = 1f;
- 
-     // Code to execute after the delay
     }
 
 }
